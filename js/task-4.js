@@ -18,23 +18,3 @@ if (userInput === null) {
         console.log(`Вы купили ${quantity} дроидов, на счету осталось ${balance} кредитов.`);
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-// const price= credits - pricePerDroid;
-// const piece = credits % pricePerDroid;
-
-// console.log(`Вы купили ${piece} дроидов, на счету осталось ${price} кредитов.`)
-
-// if (credits >= pricePerDroid) {
-//     // credits = credits-pricePerDroid;
-//     console.log(`Вы купили ${piece} дроидов, на счету осталось ${price} кредитов.`)
-// } 
